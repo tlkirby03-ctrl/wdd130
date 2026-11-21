@@ -16,7 +16,6 @@
 
 body {
     font-family: var(--body-font);
-    color: var(--text-dark);
     background-color: #222831;
     line-height: 1.7;
     font-size: 0.98rem;
